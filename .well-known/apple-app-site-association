@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "22YMJUD8HP.dev.kriatov.gulpify",
+        "paths": ["*"]
+      }
+    ]
+  }
+}

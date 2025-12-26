@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.kriatov.gulpify",
+      "sha256_cert_fingerprints": [
+        "20:71:36:A5:D6:EB:9C:00:BC:75:F5:5D:42:B1:B8:22:F8:82:6A:01:9C:C7:55:9C:15:13:55:D4:E1:DA:36:DF"
+      ]
+    }
+  }
+]
